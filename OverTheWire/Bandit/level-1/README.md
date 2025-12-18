@@ -19,4 +19,4 @@ Key Takeaways
 - Small details in file handling can create security challenges.
 
 Evidence
-[bandit1.png]
+[bandit2.png]
