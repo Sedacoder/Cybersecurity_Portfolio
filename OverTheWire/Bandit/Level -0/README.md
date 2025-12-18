@@ -23,5 +23,5 @@ Evidence
 
 Screenshot showing successful login to the next level:
 
-![Bandit Level 0 Success](success.png)
+![Bandit Level 0 Success](bandit0.png)
 
