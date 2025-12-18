@@ -1,6 +1,6 @@
 Bandit Level 1
 
-Objective
+# Objective
 Retrieve the password for the next level from a file with an unusual filename.
 
 Skills Practiced
