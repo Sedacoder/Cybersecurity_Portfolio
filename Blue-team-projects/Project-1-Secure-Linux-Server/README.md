@@ -21,7 +21,7 @@ network traffic monitoring, log analysis, and automated intrusion prevention.
 - Network Mode: NAT
 - SSH Port: 2222
 
-![Ubuntu terminal][ubuntu VM.png]
+![Ubuntu terminal](ubuntu VM.png)
 
 ## SSH Hardening
 
@@ -42,7 +42,7 @@ Only SSH access on port 2222 was allowed.
 Live network traffic was monitored using tcpdump on the primary network interface.
 SSH traffic was filtered to observe authentication attempts in real time.
 - sudo tcpdump -i ens33 port 2222
-![tcpdump output][tcpdump-output.png]
+![tcpdump output](tcpdump-output.png)
 
 ## Packet Capture and Analysis
 
