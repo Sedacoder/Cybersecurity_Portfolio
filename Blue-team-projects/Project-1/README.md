@@ -23,7 +23,7 @@ network traffic monitoring, log analysis, and automated intrusion prevention.
 - Network Mode: NAT
 - SSH Port: 2222
 
-![Ubuntu terminal](ubuntu-VM.png)
+![Ubuntu terminal](Ubuntu-VM.png)
 
 ## SSH Hardening
 
