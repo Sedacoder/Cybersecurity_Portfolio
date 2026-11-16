@@ -1,0 +1,35 @@
+site_name: Cybersecurity Portfolio
+site_description: Technical log of hands-on labs, broken web apps, and custom tooling.
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: green
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - admonition
+
+nav:
+  - Home: index.md
+  - Lab Write-Ups:
+      - VulnHub Machines:
+          - DC-1 Walkthrough: labs/vulnhub/dc-1.md
+  - Toolkit & Scripts:
+      - Custom Scripts: toolkit/scripts.md
+      - One-Liner Cheat Sheet: toolkit/cheatsheet.md
